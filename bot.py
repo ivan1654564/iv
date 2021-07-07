@@ -23,5 +23,5 @@ async def on_member_remove(member):
 async def ping (ctx):
     await ctx.send(f"{round(bot.latency*1000)} ms")
 
-bot.run("ODYyMzQxOTEyNzgyNTY5NDcy.YOW8fQ.WCn1ith2-7N0iHGRBDxnUY0weF4") 
+bot.run("ODYyMzQxOTEyNzgyNTY5NDcy.YOW8fQ.7Q9yEpm3JTcP8hlRgUDg6hIaoWA") 
 
